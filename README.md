@@ -27,7 +27,7 @@ Blood Bond Tools is a suite of utilities designed to aid in the creation and man
 
 1. Download or clone the Blood Bond Tools repository to your computer
 2. Navigate to the main directory
-3. Run `BloodBond_Setup.bat` to create shortcuts and set up the tools
+3. Run `SHortcut Creator.bat` to create shortcuts and set up the tools
    - This will create desktop shortcuts for easy access to the tools
    - The setup ensures all dependencies are properly connected
 
