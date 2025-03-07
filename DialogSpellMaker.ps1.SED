@@ -1,0 +1,53 @@
+[Version]
+Class=IEXPRESS
+SEDVersion=3
+[Options]
+PackagePurpose=ExtractOnly
+ShowInstallProgramWindow=0
+HideExtractAnimation=0
+UseLongFileName=1
+InsideCompressed=0
+CAB_FixedSize=0
+CAB_ResvCodeSigning=0
+RebootMode=N
+InstallPrompt=%InstallPrompt%
+DisplayLicense=%DisplayLicense%
+FinishMessage=%FinishMessage%
+TargetName=%TargetName%
+FriendlyName=%FriendlyName%
+AppLaunched=%AppLaunched%
+PostInstallCmd=%PostInstallCmd%
+AdminQuietInstCmd=%AdminQuietInstCmd%
+UserQuietInstCmd=%UserQuietInstCmd%
+SourceFiles=SourceFiles
+[Strings]
+InstallPrompt=This will Install your Blood Bond Spell Generator
+DisplayLicense=
+FinishMessage=Blood Bond Tools are ready to Roll
+TargetName=C:\temp\Blood Bond Tools V2.EXE
+FriendlyName=Blood Bond Tools V2
+AppLaunched=BloodBond_Setup.bat
+PostInstallCmd=BloodBond_Setup.bat
+AdminQuietInstCmd=
+UserQuietInstCmd=
+FILE0="DialogSpellMaker.ps1"
+FILE1="ElementMapper.ps1"
+FILE2="full_logo.ico"
+FILE3="spell_data.json"
+FILE4="spell_descriptions.json"
+FILE5="synonyms.json"
+FILE6="timing_patterns.json"
+FILE7="BloodBond_Setup.bat"
+FILE8="DialogSpellMaker.ps1.SED"
+[SourceFiles]
+SourceFiles0=C:\temp\
+[SourceFiles0]
+%FILE0%=
+%FILE1%=
+%FILE2%=
+%FILE3%=
+%FILE4%=
+%FILE5%=
+%FILE6%=
+%FILE7%=
+%FILE8%=

@@ -1,0 +1,147 @@
+{
+"bloodline_affinities": {
+"Moon": {
+    "Best 100%": ["Moon"],
+    "Best 80%": ["Water", "Love"],
+    "Good 60%": ["Love", "Wind"],
+    "Moderate 40%": ["Protection", "Earth"],
+    "Weak 20%": ["Death", "Fire"],
+    "Neutral 50%": ["Sun"]
+},
+"Water": {
+    "Best 100%": ["Water"],
+    "Best 80%": ["Moon", "Wind"],
+    "Good 60%": ["Earth", "Song"],
+    "Moderate 40%": ["Love", "Death"],
+    "Weak 20%": ["Protection", "Fire"],
+    "Neutral 50%": ["Sun"]
+},
+"Wind": {
+    "Best 100%": ["Wind"],
+    "Best 80%": ["Water", "Earth"],
+    "Good 60%": ["Moon", "Death"],
+    "Moderate 40%": ["Song", "Fire"],
+    "Weak 20%": ["Love", "Protection"],
+    "Neutral 50%": ["Sun"]
+},
+"Earth": {
+    "Best 100%": ["Earth"],
+    "Best 80%": ["Wind", "Death"],
+    "Good 60%": ["Water", "Fire"],
+    "Moderate 40%": ["Moon", "Protection"],
+    "Weak 20%": ["Song", "Love"],
+    "Neutral 50%": ["Sun"]
+},
+"Death": {
+    "Best 100%": ["Death"],
+    "Best 80%": ["Earth", "Fire"],
+    "Good 60%": ["Wind", "Protection"],
+    "Moderate 40%": ["Love", "Water"],
+    "Weak 20%": ["Song", "Moon"],
+    "Neutral 50%": ["Sun"]
+},
+"Fire": {
+    "Best 100%": ["Fire"],
+    "Best 80%": ["Protection", "Death"],
+    "Good 60%": ["Love", "Earth"],
+    "Moderate 40%": ["Wind", "Song"],
+    "Weak 20%": ["Water", "Moon"],
+    "Neutral 50%": ["Sun"]
+},
+"Protection": {
+    "Best 100%": ["Protection"],
+    "Best 80%": ["Fire", "Love"],
+    "Good 60%": ["Song", "Death"],
+    "Moderate 40%": ["Moon", "Earth"],
+    "Weak 20%": ["Water", "Wind"],
+    "Neutral 50%": ["Sun"]
+},
+"Love": {
+    "Best 100%": ["Love"],
+    "Best 80%": ["Protection", "Song"],
+    "Good 60%": ["Fire", "Moon"],
+    "Moderate 40%": ["Water", "Death"],
+    "Weak 20%": ["Wind", "Earth"],
+    "Neutral 50%": ["Sun"]
+},
+"Song": {
+    "Best 100%": ["Song"],
+    "Best 80%": ["Love", "Moon"],
+    "Good 60%": ["Protection", "Water"],
+    "Moderate 40%": ["Fire", "Wind"],
+    "Weak 20%": ["Death", "Earth"],
+    "Neutral 50%": ["Sun"]
+},
+"Sun": {
+    "Best 100%": ["Sun"],
+    "Best 80%": [],
+    "Good 60%": [],
+    "Moderate 40%": [],
+    "Weak 20%": [],
+    "Neutral 50%": ["All"]
+}
+},
+"spoken_spell_table": {
+    "effect_prefix": {
+    "Creation": "Cre-",
+    "Damage": "Dam-",
+    "Change": "Mu-",
+    "Curse": "Mal-",
+    "Boost": "Bu-",
+    "Heal": "Sa-",
+    "Add": "Di-",
+    "Shield": "Pre-",
+    "Death Mark": "Mal-",
+    "Echo": "Sa-"
+    },
+    "element_prefix": {
+    "Moon": "lu-",
+    "Wind": "ve-",
+    "Water": "ag-",
+    "Fire": "in-",
+    "Earth": "ter-",
+    "Song": "ca-",
+    "Love": "am-",
+    "Protection": "pra-",
+    "Death": "mo-"
+    },
+    "level_modifier": {
+    "1": "un-",
+    "2": "do-",
+    "3": "tr-",
+    "4": "qua-",
+    "5": "cor-",
+    "6": "se-",
+    "7": "ept-",
+    "8": "oc-",
+    "9": "no-",
+    "10": "din-"
+    },
+    "duration_modifier": {
+    "Instant": "nun-",
+    "30_sec": "se-",
+    "1_minute": "tu-",
+    "2_minute": "tod-",
+    "5_minute": "toc-",
+    "10_minute": "tid-",
+    "15_minute": "tud-",
+    "30_minute": "vig-",
+    "1_hour": "ho-",
+    "5_hour": "luc-",
+    "24_hour": "nox-"
+    },
+    "range_suffix": {
+    "Self": "-uin",
+    "Touch": "-acus",
+    "Sight": "-ecum",
+    "5ft": "-nim",
+    "10ft": "-cem",
+    "30ft": "-ina",
+    "60ft": "-ita",
+    "100ft": "-tum",
+    "200ft": "-enti",
+    "300ft": "-liare"
+    }
+}
+}
+

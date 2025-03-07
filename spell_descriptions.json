@@ -1,0 +1,1001 @@
+{
+"spoken_spell_table": {
+    "effect_prefix": {
+        "Creation": {
+            "element_prefix": {
+                "Moon": [
+                    "Lunar essence coalesces at your fingertips, crystallizing into ethereal silver that emanates soft, pulsing light.",
+                    "Silvery threads of moonlight intertwine and solidify, creating a luminous construct that casts no shadow.",
+                    "Pale moonbeams spiral together, forming a corporeal shape imbued with the quiet power of lunar cycles.",
+                    "Crescent motes of astral light orbit your gestures, merging to form a creation that pulses with the rhythm of distant tides.",
+                    "Moonglow essence shapes into physical reality, its form bearing patterns that shift like lunar shadows.",
+                    "Lunar dust falls from nowhere, gathering into a form that glimmers with the cool fire of stars and moon-touched magic.",
+                    "Your creation materializes from shadow and starlight, bearing the subtle gravity of lunar influence.",
+                    "You draw forth a creation of fluid, shifting brilliance that ripples with the silver light of moonlit waters."
+                ],
+                "Wind": [
+                    "The wind bends to your will, forming visible currents that take substantial shape.",
+                    "You capture the breath of the sky, weaving it into a creation of surprising solidity.",
+                    "Air molecules dance to your silent command, coalescing into a distinct form.",
+                    "Swirling vortices of wind gather around your gestures, forming your aerial creation.",
+                    "The invisible becomes visible as you manipulate air into a new state of being.",
+                    "With whispered words of power, you convince the breeze to take physical form.",
+                    "Currents of air respond to your magical influence, gathering into your creation.",
+                    "You shape the very atmosphere, compelling it to manifest according to your design.",
+                    "The essence of storms and gentle breezes alike contribute to your aerial construct.",
+                    "Transparent at first, your creation of air gradually becomes distinct and purposeful."
+                ],
+                "Water": [
+                    "Moisture in the air condenses, flowing together into a shimmering aqueous form.",
+                    "Droplets gather from the atmosphere, coalescing into a fluid creation of your design.",
+                    "You draw forth the essence of water, shaping it with deliberate, flowing gestures.",
+                    "The liquid responds to your will, forming intricate patterns before solidifying.",
+                    "From nothingness comes a rush of clear water, taking shape as you direct.",
+                    "You sing a melody of the tides, calling forth water that obeys your command.",
+                    "The boundary between material and elemental water blurs as your creation takes form.",
+                    "With arcane precision, you extract water from the very fabric of reality.",
+                    "Rivulets of crystalline water stream from your fingertips, merging into your creation.",
+                    "The essence of oceans and rivers answers your call, manifesting before you."
+                ],
+                "Fire": [
+                    "Flames dance at your fingertips, coalescing into a manifestation of pure heat and light.",
+                    "The air shimmers as elemental fire takes form according to your will.",
+                    "You conjure forth a blazing entity that pulses with the heartbeat of a forge.",
+                    "Drawing upon the primal essence of flame, you shape it into a new creation.",
+                    "Motes of ember and spark gather, solidifying into a structure of living fire.",
+                    "The arcane patterns you weave ignite, birthing a construct of controlled conflagration.",
+                    "Heat shimmers around you as you pull fire from the essence of creation itself.",
+                    "With a gesture, you transform raw magical energy into a being of flame and purpose.",
+                    "The boundaries between the elemental plane of fire and our world thin as you create.",
+                    "Wisps of crimson and gold intertwine, answering your call to take physical form."
+                ],
+                "Earth": [
+                    "The ground trembles as you reshape matter into a new earthen creation.",
+                    "Particles of dust and soil rise, compacting into a solid form of your design.",
+                    "You reach into the very essence of stone and clay, molding it to your will.",
+                    "The elements of earth respond to your touch, restructuring into something new.",
+                    "Rock and soil bind together under your command, forming a creation of impressive stability.",
+                    "With a gesture that speaks to the foundations of the world, you create from the earth itself.",
+                    "The boundary between mundane dirt and magical creation blurs as you shape your manifestation.",
+                    "You coax the spirits of stone and soil to take a new form according to your design.",
+                    "Minerals crystallize and reconfigure as you channel power into your earthen creation.",
+                    "The essence of mountains and valleys flows through your hands into tangible form."
+                ],
+                "Song": [
+                    "Notes materialize in the air around you, crystallizing into solid form as your melody takes physical shape.",
+                    "Your voice resonates at creation frequencies, vibrating matter into existence through the power of harmony.",
+                    "Rippling sound waves coalesce into tangible matter as you weave a symphony of creation.",
+                    "The rhythm of your incantation summons particles of raw magic that dance into coherent, physical form.",
+                    "Your song captures the essence of creation itself, notes transforming into matter before the eyes of onlookers.",
+                    "Harmonies spiral from your gestures, solidifying into a construct of living sound and vibration.",
+                    "Resonant tones flow from your spell, gathering the fabric of reality and shaping it according to your melody.",
+                    "The cadence of your magical chant draws forth substance from beyond, orchestrating matter into being.",
+                    "Musical energy shimmers in the air, condensing into solid form as your creation spell reaches its crescendo.",
+                    "Your arcane lyrics manifest as physical matter, the tempo of your magic defining its final shape."
+                ],
+                "Love": [
+                    "Shimmering threads of emotion weave from your fingertips, crystallizing into a construct that pulses with the rhythm of heartbeats.",
+                    "You shape raw compassion into tangible form, creating an entity that radiates warmth and unconditional acceptance.",
+                    "Tendrils of golden light braid together at your command, manifesting as a creation imbued with the essence of devotion.",
+                    "The air around you blushes rose-gold as you conjure a form built from the very substance of affection and longing.",
+                    "With gentle gestures, you coax forth a being of pure empathy, its form shifting subtly to mirror the emotions of those nearby.",
+                    "A delicate lattice of passion and tenderness materializes at your will, forming a creation that connects to the hearts of all who behold it.",
+                    "You draw upon the invisible bonds between souls, weaving them into a shimmering construct that embodies perfect understanding.",
+                    "Crimson and pink energies spiral around your hands, solidifying into a creation that resonates with the power of unwavering loyalty.",
+                    "Motes of ethereal light gather and pulse in harmony, forming your creation that emanates the gentle strength of compassionate love.",
+                    "The essence of hearts united flows through your magic, manifesting as a creation that strengthens emotional connections between all nearby."
+                ],
+                "Protection": [
+                    "Crystalline barriers materialize from your fingertips, forming a sanctuary of solid arcane light.",
+                    "Your gestures weave threads of pure defensive energy, coalescing into a physical aegis of remarkable strength.",
+                    "Protective forces manifest as translucent shields that orbit your form before settling into their warded positions.",
+                    "You conjure a bastion of arcane safeguards, its form shimmering with the essence of pure protective magic.",
+                    "A bulwark of defense materializes at your command, its surface etched with ancient warding symbols.",
+                    "Bands of guardian energy solidify around your focus point, creating a rampart of impenetrable magical armor.",
+                    "Your spell brings forth a sentinel construct that radiates the calm assurance of absolute protection.",
+                    "Gleaming panels of defensive essence form a pavilion of safety, each facet reinforcing the others.",
+                    "You craft a haven of protective power from raw magical energy, its boundaries defined by your will alone.",
+                    "Particles of shielding magic coalesce into a physical barricade that pulses with defensive purpose."
+                ],
+                "Death": [
+                    "Shadows deepen and coalesce, forming a creation born of death magic.",
+                    "The boundary between life and death blurs as you shape necrotic energy.",
+                    "Wisps of gray and black energy weave together, forming your macabre creation.",
+                    "You draw upon the essence of entropy, shaping it into something paradoxically stable.",
+                    "The chill of the grave emanates from your fingertips as your creation takes form.",
+                    "Whispers of those long passed seem to echo as you shape death essence.",
+                    "The very air seems to darken as you manifest your creation from death energy.",
+                    "With solemn gestures, you bring forth a construct of pure necrotic force.",
+                    "The essence of endings flows through you, taking shape according to your will.",
+                    "Your creation emerges from the shadows between existence and oblivion."
+                ]
+            }
+        },
+        "Damage": {
+            "element_prefix": {
+                "Moon": [
+                    "Lunar shards crystallize in midair before hurtling forth to pierce your foe with celestial cold.",
+                    "Silver moonbeams converge into a cutting blade that severs both flesh and spirit.",
+                    "You channel the moon's gravity to crush your enemy beneath an invisible tide of force.",
+                    "Crescent arcs of lunar energy slash through the air, severing the bonds that hold matter together.",
+                    "The cold light of distant stars coalesces into deadly projectiles of condensed moonlight.",
+                    "You invoke the moon's hidden face, sending forth shadows that devour light and life alike.",
+                    "Silvery tendrils of moonlight wrap around your target before tightening with devastating force.",
+                    "You shatter the boundary between lunar realms and reality, allowing destructive astral energy to flood through.",
+                    "The phases of the moon cycle rapidly in your palm before erupting outward as a blast of shattering force.",
+                    "You draw down the essence of the void between stars, unleashing a cold that burns and fractures."
+                ],
+                "Wind": [
+                    "Air molecules sharpen to invisible blades that slice through your target with hurricane precision.",
+                    "You compress the atmosphere into a battering ram of pure concussive force.",
+                    "A cyclone forms at your command, tearing your enemy apart with contradicting wind currents.",
+                    "The very breath is ripped from your foe's lungs as you manipulate the surrounding air.",
+                    "You summon a localized tempest that flays skin from bone with thousands of microscopic air lashes.",
+                    "Howling gales respond to your will, hammering your target with debris accelerated to deadly speeds.",
+                    "Air pressure fluctuates violently around your enemy, rupturing blood vessels and shattering bone.",
+                    "You transform gentle breezes into razor-edged currents that dissect with surgical precision.",
+                    "A vortex of vacuum forms around your target, imploding with devastating force.",
+                    "The wind itself becomes your weapon as you command it to erode and destroy your foe's defenses."
+                ],
+                "Water": [
+                    "Liquid tendrils whip forth from your fingertips, crushing your enemy with the pressure of ocean depths.",
+                    "Water in the air crystallizes into ice spears that impale your target with frozen precision.",
+                    "You extract moisture from your enemy's body, leaving behind only desiccated remains.",
+                    "A sphere of water engulfs your foe's head, denying breath with implacable, drowning force.",
+                    "You summon forth a torrent that hammers your enemy with the erosive power of a flash flood.",
+                    "Droplets of water become miniature explosive charges that detonate against your target's flesh.",
+                    "The fluid within your enemy's body responds to your command, rupturing vessels and tearing tissue.",
+                    "You manipulate water's surface tension to create filaments that cut deeper than steel.",
+                    "A wave of absolute cold transforms ambient moisture into a brittle shell that shatters with your enemy inside.",
+                    "Water becomes a conduit for your destructive intent, carrying corrosive energy directly into your foe's body."
+                ],
+                "Fire": [
+                    "Flames leap from your outstretched hand, hungrily devouring everything in their path.",
+                    "You concentrate heat into a searing beam that melts through armor and flesh alike.",
+                    "The air ignites around your enemy, trapping them in a cage of consuming fire.",
+                    "Embers coalesce into a swarm of burning projectiles that seek out vulnerabilities in your foe.",
+                    "You summon the essence of a forge's heart, reducing your target to ash with primordial flame.",
+                    "Fire dances along your fingertips before exploding outward in a devastating conflagration.",
+                    "Heat ripples visibly through the air as you boil your enemy from within.",
+                    "A spiraling vortex of flame engulfs your target, leaving nothing but charred remains.",
+                    "You bend the fundamental principles of combustion, causing your foe to burn without consuming oxygen.",
+                    "The very atoms of your enemy vibrate with increasing intensity until they spontaneously combust."
+                ],
+                "Earth": [
+                    "Stone shards erupt from the ground, impaling your enemy with crystalline spears.",
+                    "You command the very soil to liquefy beneath your foe's feet before solidifying again around their limbs.",
+                    "Jagged rocks orbit your hand before hurtling forth with mountain-crushing force.",
+                    "You fracture the ground beneath your target, creating a chasm that hungers to devour them whole.",
+                    "Mineralized dust forms an abrasive cloud that flays skin and erodes bone with every breath.",
+                    "Earth responds to your call, compressing around your enemy with the inexorable pressure of deep burial.",
+                    "You transmute soft soil into metallic spikes that pierce through any defense.",
+                    "The ground trembles before exploding upward in a geyser of pulverizing debris.",
+                    "You manipulate crystal growth within stone, creating serrated blades that slice through your target.",
+                    "Sand swirls at your command, forming a grinding vortex that reduces all it touches to dust."
+                ],
+                "Song": [
+                    "Discordant notes manifest as visible waves that shatter bone and rupture organs.",
+                    "Your haunting melody resonates at your enemy's natural frequency, causing them to literally tear apart.",
+                    "You sing a devastating aria that transforms sound into physical force, crushing your foe from all sides.",
+                    "Harmonic vibrations amplify through your target's body, liquefying tissue with surgical precision.",
+                    "Your whispered chant manifests as razor-edged sound waves that slice through anything in their path.",
+                    "The deadly symphony you conduct creates pockets of vacuum that implode with devastating effect.",
+                    "Sound becomes solid in your hands, forming sonic projectiles that punch through flesh and armor.",
+                    "Your voice carries destructive overtones that disintegrate the bonds holding matter together.",
+                    "The rhythm of your spell creates catastrophic interference patterns in your enemy's very cells.",
+                    "You manipulate acoustic pressure to create explosive compressions that devastate your target from within."
+                ],
+                "Love": [
+                    "You invert the energy of passion, turning life-giving warmth into consuming, destructive heat.",
+                    "Bonds of affection twist into chains that constrict and crush your enemy without mercy.",
+                    "You amplify your foe's emotions until their heart literally bursts from overwhelming intensity.",
+                    "Tendrils of corrupted compassion latch onto your target, draining their life force with parasitic hunger.",
+                    "You manipulate the connections between heart and mind, causing your enemy's own emotions to damage them from within.",
+                    "The power of obsession manifests as crimson barbs that tear through your opponent's psyche and flesh alike.",
+                    "You channel the pain of heartbreak, crystallizing it into projectiles that shatter upon impact.",
+                    "Twisted strands of emotional energy wrap around your foe, constricting with the force of desperate longing.",
+                    "You invoke the jealous aspects of love, creating a green fire that consumes your enemy's strength.",
+                    "The bitter sting of betrayal forms the edge of your attack, cutting deeper than any physical blade."
+                ],
+                "Protection": [
+                    "You invert warding energy, turning defensive shields into inward-facing blades that shred your enemy.",
+                    "Barriers form and collapse around your target, each implosion releasing destructive force.",
+                    "You create a sanctuary that excludes your foe from reality itself, causing their partial erasure.",
+                    "Protective energy becomes a constricting field that crushes whatever it surrounds.",
+                    "You establish a border between existence and void, then push your enemy across the threshold.",
+                    "Aegis magic inverts at your command, becoming a prison of contracting, spiked walls.",
+                    "You manipulate defensive forces to reflect your enemy's own energy back upon them with amplified strength.",
+                    "A sphere of inverted protection forms around your target, rejecting their very atoms from existence.",
+                    "You create a bastion of safety for the world by excising your foe from it with surgical precision.",
+                    "The concept of shelter twists under your will, becoming an annihilating storm centered on your enemy."
+                ],
+                "Death": [
+                    "Shadows congeal around your fingers before striking like vipers, injecting your foe with pure entropy.",
+                    "You tear open the boundary between life and death, allowing necrotic energy to consume your enemy.",
+                    "The chill of the grave emanates from your gesture, withering flesh and decaying bone in moments.",
+                    "You invoke the final silence, creating a void that hungrily devours your target's life force.",
+                    "Spectral scythes manifest in your grasp, harvesting life energy with every swing.",
+                    "Your whisper carries the weight of mortality, aging your foe decades in mere seconds.",
+                    "Death's cold hand reaches through you, extracting vital essence with merciless efficiency.",
+                    "You accelerate time's passage for your enemy alone, reducing them to dust in an eyeblink.",
+                    "Necrotic energy spirals from your fingertips, unraveling the complex tapestry of your foe's existence.",
+                    "The inevitable end comes early for your target as you channel the pure essence of oblivion."
+                ]
+            }
+        },
+        "Change": {
+            "element_prefix": {
+                "Moon": [
+                    "Lunar radiance bends reality, transmuting objects into ephemeral versions of themselves that gleam with silver potential.",
+                    "You reshape matter with the gentle gravity of moonlight, transforming its essence to reflect the moon's dual nature.",
+                    "Crescent energy flows into your target, altering its form with tidal patience and celestial precision.",
+                    "You invoke the moon's metamorphic touch, causing the subject to cycle through transformative phases like the waxing and waning moon.",
+                    "Silvery light penetrates your target, modifying its inner structure with the subtle authority of lunar influence.",
+                    "Moonbeams thread through the object, reconfiguring its essence with the timeless rhythm of cosmic change.",
+                    "You channel lunar flux to transmute the fundamental properties of your target, leaving it bathed in transformative astral energy.",
+                    "The object shimmers as you reshape it with moonglow, its form shifting under the influence of celestial forces.",
+                    "You alter reality with the power of the moon's inconstancy, bending existing patterns into new configurations of silvery harmony.",
+                    "Lunar essence seeps into your target, transforming it through the ancient alchemy of starlight and shadow."
+                ],
+                "Wind": [
+                    "You capture the essence of wind, reshaping matter as deftly as breezes transform clouds across the sky.",
+                    "Air currents twist around your target, unraveling its structure and reforming it according to your whispered commands.",
+                    "The winds of change answer your call, transmuting your subject with the fluid adaptability of the atmosphere.",
+                    "You manipulate air pressure to transform molecular bonds, altering your target with precise gusts of magical intent.",
+                    "Swirling vortices of wind energy reconfigure your subject's form, shifting its properties with elemental agility.",
+                    "Your breath carries transformative potential as you exhale, modifying the object with the inconstant nature of air.",
+                    "The zephyr's touch transmutes structure and function, weaving new patterns through matter with aerial precision.",
+                    "You summon the wind's erosive patience, gradually reshaping your target like mountain stone worn to new forms.",
+                    "Invisible currents of air carry your transmutative intent, altering the target's essence with atmospheric authority.",
+                    "The gentle persistence of breeze becomes your tool as you modify your subject with wind's changeable nature."
+                ],
+                "Water": [
+                    "Liquid transformation flows from your fingertips, reshaping your target with water's adaptable persistence.",
+                    "You invoke water's mutable nature, allowing your subject to shift forms with fluid grace and purpose.",
+                    "Droplets of change seep into your target, transmuting its structure with the patient erosion of tides.",
+                    "The boundary between states blurs as you alter your subject with water's transformative embrace.",
+                    "You channel the essence of oceans to modify your target, its form yielding to the inevitable reshaping of waves.",
+                    "Moisture becomes your medium for change, transmuting the target with water's remarkable memory for new shapes.",
+                    "You reshape reality with the fluid persistence of water, transforming structure with the patience of rivers carving stone.",
+                    "The target ripples with transmutative energy as you alter its fundamental properties through water's adaptable influence.",
+                    "Crystalline drops carry your intent for change, modifying your subject with the measured rhythm of rainfall.",
+                    "You harness water's alchemical potential, transforming your target with the elemental force that reshapes continents."
+                ],
+                "Fire": [
+                    "Flames of transformation dance around your target, reshaping it with fire's purifying alteration.",
+                    "You invoke the forge's transformative heat, transmuting your subject into a more perfected version of itself.",
+                    "Fire's creative destruction flows through your hands as you modify your target with controlled combustive change.",
+                    "The essence of flame rewrites your subject's form, altering it with the primal transformative power of heat.",
+                    "You reshape reality through fire's metamorphic touch, reconfiguring matter with the intensity of focused flame.",
+                    "Embers of change settle upon your target, transmuting its structure with fire's ancient alchemical authority.",
+                    "You channel the phoenix-fire of renewal, transforming your subject through necessary destruction and rebirth.",
+                    "Scintillating heat ripples around your target as you bend its nature with fire's insistent evolutionary force.",
+                    "You invoke fire's catalytic energy, accelerating natural changes within your subject until transformation manifests.",
+                    "The dancing edge between destruction and creation becomes your tool as you transmute your target with flame's dual nature."
+                ],
+                "Earth": [
+                    "Earth energy grounds your magic as you reshape your target with the steady persistence of stone.",
+                    "You channel the patient force of tectonics, transmuting your subject's form with earth's grounding influence.",
+                    "Granular change flows from your hands, transforming your target with the methodical precision of crystalline growth.",
+                    "The essence of mountains flows through your spell, altering your subject with earth's enduring transformative power.",
+                    "You reshape reality with soil's nurturing change, modifying your target through cycles of renewal and transformation.",
+                    "Earthen energy seeps into your subject, transmuting its structure with the slow certainty of geological processes.",
+                    "You invoke stone's memory to alter your target, transforming it through the ancient wisdom of minerals and gems.",
+                    "The target yields to your transformative touch as you modify it with the practical certainty of earth magic.",
+                    "You transmute form and function through the alchemical potential of earth, reshaping with elemental stability.",
+                    "Crystalline structures rearrange within your target as you alter its essence with earth's fundamental patience."
+                ],
+                "Song": [
+                    "Harmonic vibrations ripple through your target, transforming it according to the resonant patterns of your spell.",
+                    "You weave a melody of change, transmuting your subject as its very atoms dance to your magical song.",
+                    "The rhythm of transformation pulses from your incantation, reshaping your target with the cadence of pure creation.",
+                    "Your voice carries alchemical potential as you sing matter into new forms with perfect harmonic precision.",
+                    "Sound becomes substance as your magical notes reshape reality, altering your subject with auditory transmutation.",
+                    "You conduct the symphony of change, modifying your target through the subtle manipulations of magical frequencies.",
+                    "The target vibrates between states as your song induces transformation with carefully modulated tonal magic.",
+                    "You reshape existence through the pure mathematics of sound, transmuting form and function with melodic intent.",
+                    "Resonant change flows through your subject as you alter its fundamental nature with the timbre of magical song.",
+                    "Your enchanted aria induces metamorphosis, transforming the target as it attunes to your spell's perfect pitch."
+                ],
+                "Love": [
+                    "The power of affection reshapes your target, transforming it with the tender persistence of true devotion.",
+                    "You channel love's creative potential, transmuting your subject with the gentle but inexorable force of compassion.",
+                    "Heart-energy flows through your spell, altering your target with the empathetic understanding of emotional bonds.",
+                    "Your magic reshapes reality through the lens of profound connection, transforming your subject with love's insight.",
+                    "Rose-gold energy suffuses your target, modifying its essence with the warmth of genuine affection.",
+                    "You invoke love's harmonizing influence, transmuting discord within your subject into balanced transformation.",
+                    "The target shifts under your spell as you reshape it with the nurturing creativity that only love can manifest.",
+                    "You alter function and form through the lens of perfect acceptance, transforming your subject with compassionate magic.",
+                    "Emotional resonance becomes your tool for change as you transmute your target with love's alchemical touch.",
+                    "You reshape reality with the profound power of connection, modifying your subject through the magic of genuine care."
+                ],
+                "Protection": [
+                    "Protective energy becomes a catalyst for change as you transform your target with warding magic.",
+                    "You reshape reality within a sanctuary of alteration, transmuting your subject through shielding forces.",
+                    "The magic of preservation becomes your tool for change, modifying your target with defensive transmutation.",
+                    "You invoke the boundary between safety and transformation, altering your subject with protective energy.",
+                    "Warding light suffuses your target, reshaping it with the careful precision of defensive magic.",
+                    "You channel the essence of shields and barriers, transmuting your subject through protection's structured influence.",
+                    "Aegis energy flows through your spell, transforming your target with the calculated safety of guarded change.",
+                    "Your magic creates a haven for metamorphosis, reshaping your subject within the embrace of protective forces.",
+                    "You alter reality with the balanced duality of shelter and change, transmuting your target through protection's lens.",
+                    "The target shifts under your spell as you modify it with magic that both guards and transforms its essence."
+                ],
+                "Death": [
+                    "Death's transformative touch flows through your spell, reshaping your target with the finality of endings.",
+                    "You channel the boundary between existence and void, transmuting your subject with death's definitive alteration.",
+                    "Shadowy tendrils of change wrap around your target, modifying it with the inevitable metamorphosis of mortality.",
+                    "Your magic invokes death's regenerative cycle, transforming your subject through necessary endings and beginnings.",
+                    "The target yields to entropic transformation as you reshape it with death's patient, eternal authority.",
+                    "You alter reality with the profound power of conclusion, transmuting form and function through death's lens.",
+                    "Spectral energy seeps into your subject, modifying its essence with the whispered knowledge of final transformation.",
+                    "You reshape your target with the dual nature of death and rebirth, its structure yielding to cyclical change.",
+                    "The boundary between states blurs as you transform your subject with the gray mists of mortality's quiet alteration.",
+                    "Your magic carries the weight of ultimate change, transmuting your target with death's solemn, irrevocable touch."
+                ]
+            }
+        },
+        "Curse": {
+            "element_prefix": {
+                "Moon": [
+                    "Lunar shadows coalesce around your target, hexing them with the waxing and waning cycle of pain and respite.",
+                    "You afflict your foe with moonsickness, their body and mind destabilized by tidal forces pulling from within.",
+                    "Silver tendrils of lunar malice spiral into your victim, corrupting their essence with cold celestial blight.",
+                    "The moon's merciless aspect flows through your gesture, cursing your target with insidious transformation under night's gaze.",
+                    "You weave astral entropy into your enemy's fate, ensuring their fortunes ebb like the receding tide.",
+                    "Crescent slivers of malevolent moonlight embed themselves beneath your victim's skin, their curse growing fuller with each passing night.",
+                    "Your fingers trace arcane sigils that bind your enemy's spirit to the moon's most malicious influences.",
+                    "The whispered names of forgotten lunar deities curse your target with the cold indifference of distant stars.",
+                    "You afflict your enemy with the void between moonbeams, a spreading darkness that devours hope and strength.",
+                    "Spectral moonlight radiates from your hands, marking your foe with a hex that distorts their connection to reality."
+                ],
+                "Wind": [
+                    "You whisper a hex that rides the breeze, afflicting your target with lungs that struggle against their own breath.",
+                    "Chaotic air currents bind to your enemy's aura, cursing them with a perpetual destructive tempest that follows their every step.",
+                    "You twist the winds of fate, blighting your foe with an invisible maelstrom that slowly erodes their defenses from within.",
+                    "A subtle gesture corrupts the air around your target, hexing them with whispering voices that fray the edges of sanity.",
+                    "Your curse rides the zephyr, wrapping your enemy in winds that sap strength and cloud judgment.",
+                    "You afflict your foe with the capricious nature of storm winds, their thoughts scattered and directionless as autumn leaves.",
+                    "The air itself becomes your instrument of malice, a cursed cyclone gradually stripping away your victim's protections.",
+                    "You bind your enemy's fortune to the most fickle aspects of the breeze, ensuring their efforts disperse like dust.",
+                    "Your curse manifests as corrupted gusts that cling to your target, steadily suffocating their connection to vitality.",
+                    "Venomous whispers ride the wind to your foe's ears, planting a hex that blooms with each anxious breath they take."
+                ],
+                "Water": [
+                    "Droplets of malice seep into your target's form, a curse that flows through their veins like poisoned rivers.",
+                    "You afflict your enemy with the drowning depths, their lungs perpetually fighting against phantom tides.",
+                    "Your hex mimics water's patient erosion, gradually dissolving the bonds between your victim's body and spirit.",
+                    "The curse of stagnant waters clings to your foe, breeding decay and corruption in their once-vital essence.",
+                    "You twist aqueous energy into a parasitic blight that drinks deeply from your enemy's reservoirs of strength.",
+                    "Your fingers trace fluid symbols that bind your target to the crushing pressure of oceanic depths.",
+                    "The curse of endless thirst afflicts your foe, no amount of water capable of quenching their desperate need.",
+                    "You hex your enemy with the insidious dampness that rots foundations and crumbles resolve.",
+                    "Your curse floods your victim's senses with illusory depths, leaving them perpetually floundering for solid ground.",
+                    "You afflict your target with water's memory, forcing them to relive their most painful failures with every heartbeat."
+                ],
+                "Fire": [
+                    "You brand your enemy with invisible flames of spite, a curse that smolders beneath their skin without relief.",
+                    "The hex of consuming embers afflicts your target, their vital energy feeding a fire that never gives warmth.",
+                    "Your curse ignites the aspect of flame that devours but never satiates, leaving your foe perpetually hollowed.",
+                    "You afflict your enemy with fire's capricious hunger, blighting them with unpredictable bursts of searing pain.",
+                    "The curse of the dying hearth clings to your target, stealing warmth and comfort from even their most cherished moments.",
+                    "Your fingers trace burning sigils that embed themselves in your victim's aura, a smoldering hex that resists quenching.",
+                    "You bind your enemy to flame's destructive nature, their attempts at creation now cursed to crumble to ash.",
+                    "The affliction of fevered delirium takes hold as your fire-curse corrupts your target's clarity of thought.",
+                    "You hex your foe with the essence of smoke and shadow, their perceptions now clouded by stinging half-truths.",
+                    "Your curse of immolation slowly consumes your enemy from within, turning determination to desperate cinders."
+                ],
+                "Earth": [
+                    "Your curse weighs upon your victim like mountains of stone, each step a struggle against unnatural gravity.",
+                    "You afflict your enemy with the hex of crumbling foundation, stability forsaking them in moments of greatest need.",
+                    "The blight of sterile soil flows from your gesture, cursing your foe's efforts to bear fruit only as dust and ash.",
+                    "You bind your target to earth's unyielding stubbornness, their adaptability replaced with brittle rigidity.",
+                    "The curse of erosion embeds itself in your enemy's essence, their strengths slowly wearing away to nothing.",
+                    "You hex your victim with the burden of sediment, their thoughts growing increasingly clouded and weighed down.",
+                    "Your affliction corrupts your foe with the nature of fault lines, creating fractures in their most trusted relationships.",
+                    "The curse of the shallow grave clings to your target, drawing them incrementally downward toward stifling confinement.",
+                    "You twist earthen energy into a parasitic blight that feeds on your enemy's connection to vitality and growth.",
+                    "Your curse grinds against your victim like abrasive stone, slowly wearing away their resilience and resolve."
+                ],
+                "Song": [
+                    "Your curse manifests as a discordant melody that burrows into your victim's mind, preventing harmonious thought.",
+                    "You afflict your enemy with a hex of perpetual cacophony, their inner voice now fragmented into competing whispers.",
+                    "The blight of silence flows from your gesture, cursing your foe with an inability to express their deepest needs.",
+                    "You bind your target to an endless, maddening refrain that repeats in their dreams and quietest moments.",
+                    "The curse of the final verse embeds itself in your enemy, their story now drawn inexorably toward its conclusion.",
+                    "You hex your victim with corrupted rhythms, their heartbeat and breath falling into painful, stumbling patterns.",
+                    "Your affliction distorts your foe's perception of sound, transforming comfort into grating dissonance.",
+                    "The curse of the forgotten melody clings to your target, stealing away their most cherished memories note by note.",
+                    "You twist sonic energy into a parasitic anthem that drowns out your enemy's attempts to focus their will.",
+                    "Your curse of the siren's call subtly leads your victim toward self-destructive choices cloaked in beautiful deception."
+                ],
+                "Love": [
+                    "Your hex twists the nature of affection, cursing your enemy to find betrayal in even the most sincere embrace.",
+                    "You afflict your foe with a heart turned cynical, a blight that renders them unable to trust genuine compassion.",
+                    "The curse of unrequited devotion flows from your gesture, binding your victim to pursue those who will only cause pain.",
+                    "You corrupt your target's emotional perception, hexing them to misinterpret kindness as manipulation.",
+                    "The blight of isolation disguised as independence afflicts your enemy, slowly severing their bonds with others.",
+                    "You curse your victim with the pain of attachment, making every relationship a source of vulnerability and fear.",
+                    "Your hex of bitter remembrance ensures your foe dwells only on love's disappointments rather than its joys.",
+                    "You afflict your enemy with the compulsion to sabotage affection, their own actions destroying what they most desire.",
+                    "The curse of the empty embrace clings to your target, leaving them perpetually unfulfilled by connection.",
+                    "Your affliction corrupts natural empathy, blighting your victim with an inability to recognize when they cause harm."
+                ],
+                "Protection": [
+                    "Your hex inverts the nature of wards, cursing your enemy's defenses to become channels for harm rather than shields.",
+                    "You afflict your foe with a blight that renders them vulnerable precisely where they believe themselves most secure.",
+                    "The curse of the false sanctuary flows from your gesture, ensuring your victim finds danger in their safest havens.",
+                    "You bind your target to the delusion of invulnerability, hexing them to lower their guard when protection is most needed.",
+                    "The blight of the crumbling bulwark afflicts your enemy, their magical defenses now fracturing at critical moments.",
+                    "You curse your victim with aversion to shelter, compelling them to abandon safety for increasing exposure to harm.",
+                    "Your hex of misplaced trust ensures your foe relies on protections that will ultimately fail them completely.",
+                    "You afflict your enemy with the curse of sanctuary's burden, making each defense they erect drain more vitality than it preserves.",
+                    "The blight of the guardian's betrayal clings to your target, turning their own protective measures against them.",
+                    "Your affliction corrupts your victim's instinct for self-preservation, blighting them with recklessness disguised as courage."
+                ],
+                "Death": [
+                    "Your hex draws your enemy closer to death's threshold, cursing them to glimpse the void in fleeting, maddening moments.",
+                    "You afflict your foe with the lingering presence of mortality, a blight that withers their connection to vitality.",
+                    "The curse of entropic dissolution flows from your gesture, binding your victim to a state of perpetual, subtle decay.",
+                    "You corrupt your target's life force with a death-hex that mimics the inexorable patience of the grave.",
+                    "The blight of finite moments afflicts your enemy, accelerating time's passage for them alone among the living.",
+                    "You curse your victim with spectral tendrils that gradually siphon the warmth and vigor from their essence.",
+                    "Your hex of terminal contemplation ensures your foe is plagued by constant awareness of life's fragility.",
+                    "You afflict your enemy with necrotic energy that hibernates within them, awakening to feed when they are most vulnerable.",
+                    "The curse of the final silence clings to your target, gradually muting the vibrant colors of their existence.",
+                    "Your affliction corrupts your victim's natural healing, blighting them with wounds that whisper of permanent endings."
+                ]
+            }
+        },
+        "Boost": {
+            "element_prefix": {
+                "Moon": [
+                    "Lunar essence flows into your target, empowering them with the cyclical strength of waxing moons.",
+                    "You amplify the subject's abilities with silver moonlight that courses through their form like liquid starlight.",
+                    "Celestial power from the moon's pale face enhances your ally, their movements becoming graceful and precise.",
+                    "You channel lunar radiance to strengthen your target, their essence resonating with the moon's ancient rhythm.",
+                    "Moonglow suffuses your ally's form, augmenting their capabilities with the patient strength of tidal forces.",
+                    "You fortify your target with the enduring essence of moonlight, their potential waxing to fullness.",
+                    "Crescent energy spirals around your ally, bolstering their powers with the subtle gravity of lunar influence.",
+                    "You enhance your subject with silvery threads of moonbeam, weaving celestial power into their very being.",
+                    "Astral energies from the moon's domain amplify your target's strengths, illuminating hidden potential.",
+                    "You infuse your ally with the concentrated essence of moonlight, elevating their capabilities beyond mortal limits."
+                ],
+                "Wind": [
+                    "Wind currents spiral around your target, amplifying their capabilities with the freedom of unfettered air.",
+                    "You channel zephyr essence to enhance your ally, their movements becoming swift as the breeze itself.",
+                    "Aerial energies infuse your subject, bolstering their abilities with the adaptable power of the wind.",
+                    "You empower your target with the unbridled potential of storm winds, their strength surging like a tempest.",
+                    "Currents of air weave through your ally's form, augmenting their natural talents with elemental vitality.",
+                    "You fortify your subject with the essence of the boundless sky, elevating their capacities beyond normal limits.",
+                    "Whispering breezes respond to your command, enhancing your ally with the subtle persistence of wind.",
+                    "You amplify your target's abilities with atmospheric energy that flows like invisible currents of power.",
+                    "The spirit of the wind answers your call, strengthening your ally with its boundless, free-flowing nature.",
+                    "You infuse your subject with the concentrated essence of air, their potential soaring to new heights."
+                ],
+                "Water": [
+                    "Liquid power flows into your target, enhancing their abilities with the adaptive strength of flowing water.",
+                    "You channel the essence of the deep ocean to amplify your ally, their reserves of energy becoming fathomless.",
+                    "Aquatic energies suffuse your subject, bolstering their capabilities with water's fluid persistence.",
+                    "You empower your target with the relentless force of tidal currents, their potential rising like a flood.",
+                    "Crystalline droplets orbit your ally before sinking into their form, augmenting their natural talents.",
+                    "You strengthen your subject with the memory and wisdom of ancient waters, elevating their abilities.",
+                    "The patient power of rivers and seas infuses your ally, enhancing their essence with elemental vitality.",
+                    "You amplify your target's capabilities with the fluid adaptability of water, their limitations dissolving away.",
+                    "Pure liquid essence responds to your will, fortifying your ally with the nourishing strength of life-giving waters.",
+                    "You boost your subject with the concentrated power of the primordial ocean, their abilities flowing with renewed vigor."
+                ],
+                "Fire": [
+                    "Flames dance along your target's form, enhancing their abilities with the primal intensity of fire.",
+                    "You channel the concentrated essence of embers to amplify your ally, their potential blazing to new heights.",
+                    "Fiery energy spirals into your subject, bolstering their capabilities with the transformative power of flame.",
+                    "You empower your target with the passionate strength of fire, their reserves burning brighter than before.",
+                    "Crimson light suffuses your ally, augmenting their natural talents with the catalyzing force of heat.",
+                    "You fortify your subject with the purifying aspect of flame, burning away weaknesses to reveal greater strength.",
+                    "The creative destruction of fire flows through your ally, enhancing their essence with elemental vitality.",
+                    "You amplify your target's abilities with the concentrated power of a forge's heart, tempering them to perfection.",
+                    "Scintillating energy from the realm of flame infuses your ally, kindling their innate potential to newfound intensity.",
+                    "You boost your subject with fire's evolutionary force, their capabilities evolving through controlled burning."
+                ],
+                "Earth": [
+                    "Resonant energy flows into your target, enhancing their abilities with the harmonic power of song.",
+                    "You amplify your ally with the pure mathematics of sound, their capabilities resonating with newfound strength.",
+                    "Melodic essence spirals around your subject, bolstering their potential with the structured beauty of music.",
+                    "You empower your target with vibrations that match their natural frequency, augmenting their innate talents.",
+                    "Harmonic patterns suffuse your ally's form, strengthening their capabilities with musical precision.",
+                    "You fortify your subject with the ordered chaos of symphony, elevating their abilities beyond normal limits.",
+                    "The rhythm of creation itself flows through your ally, enhancing their essence with fundamental cadence.",
+                    "You boost your target's capabilities with the resonant strength of perfect pitch, their potential amplified like a crescendo.",
+                    "Musical energy responds to your command, infusing your ally with the timeless power of harmony.",
+                    "You enhance your subject with the concentrated essence of song, their abilities singing with newfound vigor."
+                ],
+                "Love": [
+                    "Compassionate energy envelops your target, enhancing their abilities with the boundless strength of true affection.",
+                    "You amplify your ally with the power of emotional bonds, their potential growing through connection.",
+                    "Rose-gold light spirals into your subject, bolstering their capabilities with love's nurturing essence.",
+                    "You empower your target with the harmonizing force of empathy, augmenting their natural talents.",
+                    "Tendrils of devotion weave through your ally's form, strengthening their resolve and capabilities.",
+                    "You fortify your subject with the unwavering support of genuine care, elevating their abilities.",
+                    "The unconditional acceptance of love flows through your ally, enhancing their essence with emotional vitality.",
+                    "You boost your target's potential with heart-energy that resonates with their deepest truth.",
+                    "Warm currents of affection respond to your call, infusing your ally with the courage born of connection.",
+                    "You enhance your subject with love's creative potential, their capabilities blossoming under its influence."
+                ],
+                "Protection": [
+                    "Protective energy envelops your target, enhancing their abilities with the resilient strength of perfect defense.",
+                    "You amplify your ally with the power of wards and shields, their potential secured against hostility.",
+                    "Glimmering barriers orbit your subject before sinking inward, bolstering their capabilities with aegis magic.",
+                    "You empower your target with the steadfast force of sanctuary, augmenting their natural talents within a haven of safety.",
+                    "Warding light suffuses your ally's form, strengthening their resolve and abilities with protective essence.",
+                    "You fortify your subject with the unwavering stability of magical bulwarks, elevating their capabilities.",
+                    "The balanced harmony of defense flows through your ally, enhancing their effectiveness without vulnerability.",
+                    "You boost your target's potential with guardian energy that preserves their strength while amplifying it.",
+                    "Shielding magic responds to your command, infusing your ally with the confidence of assured protection.",
+                    "You enhance your subject with the concentrated essence of preservation, their abilities flourishing within secure boundaries."
+                ],
+
+                "Death": [
+                    "Shadow essence flows into your target, paradoxically enhancing their vitality with death's transformative power.",
+                    "You amplify your ally with the boundary-walking strength of mortality, their potential transcending normal limitations.",
+                    "Gray tendrils of necrotic energy spiral around your subject, bolstering their capabilities with entropy's hidden gifts.",
+                    "You empower your target with the solemn knowledge of endings, augmenting their resolve with death's certainty.",
+                    "Spectral light suffuses your ally, strengthening their connection to both life and its inevitable conclusion.",
+                    "You fortify your subject with the uncompromising honesty of mortality, elevating their effectiveness through acceptance.",
+                    "The cyclical nature of death and rebirth flows through your ally, enhancing their essence with timeless wisdom.",
+                    "You boost your target's abilities with energy harvested from the threshold between existence and void.",
+                    "Death's quiet resilience responds to your call, infusing your ally with power drawn from life's culmination.",
+                    "You enhance your subject with the concentrated essence of finality, their capabilities sharpened by death's perspective."
+                ]
+        },
+        "Heal": {
+            "element_prefix": {
+                "Moon": [
+                    "Lunar radiance flows through your fingertips, mending wounds with the cool light of distant stars.",
+                    "You channel the moon's regenerative cycle, restoring vitality with silver threads of celestial energy.",
+                    "Crescent light bathes your target in healing waves that pulse with the rhythm of lunar tides.",
+                    "Moonglow suffuses damaged tissue, knitting flesh together with the patient energy of waxing fullness.",
+                    "You draw upon the moon's ancient wisdom, curing ailments with its purifying silver essence.",
+                    "Luminous tendrils of lunar power weave through your ally, restoring wholeness with astral tranquility.",
+                    "You invoke the moon's renewing embrace, revitalizing your target with its cyclical healing energy.",
+                    "Silvery moonbeams penetrate deeply, repairing internal damage with gentle celestial touch.",
+                    "You harmonize the body's natural rhythms with lunar cycles, accelerating recovery with tidal precision.",
+                    "Moonlight condenses at your command, sealing wounds with the cool kiss of starlit restoration."
+                ],
+                "Wind": [
+                    "Cleansing breezes whirl around your target, restoring vitality as they sweep away impurities.",
+                    "You direct restorative aerial currents to mend damage, tissue regenerating in their revitalizing flow.",
+                    "The breath of life itself answers your call, infusing your ally with healing zephyrs that renew from within.",
+                    "Swirling vortices of purified air envelop wounds, knitting flesh together with atmospheric vitality.",
+                    "You channel the wind's boundless freedom, curing constraints of injury with liberating gusts.",
+                    "Gentle tempests of healing energy spiral around your target, revitalizing them with each rejuvenating cycle.",
+                    "You summon the essence of mountain winds, restoring strength with their crisp, purifying touch.",
+                    "Whispers of atmospheric energy flow through injured areas, mending damage with airy precision.",
+                    "You invoke the primal breath that first stirred life, refreshing your ally's depleted reserves.",
+                    "Currents of restorative air thread through your target's form, weaving broken patterns back to wholeness."
+                ],
+                "Water": [
+                    "Crystalline droplets seep into wounds, mending tissue with the patient persistence of healing tides.",
+                    "You channel the ocean's nurturing essence, restoring life with liquid energy that flows to every injury.",
+                    "Purifying moisture condenses around your ally, sealing wounds with water's adaptive embrace.",
+                    "Rivulets of healing energies course through your target, washing away damage with fluid precision.",
+                    "You invoke the primordial waters from which life emerged, renewing your ally with aquatic vitality.",
+                    "Dew-like beads of restorative energy merge with damaged tissue, knitting it whole with liquid grace.",
+                    "You direct currents of healing hydration, revitalizing your target as parched cells drink deeply.",
+                    "Life-giving waters answer your call, mending wounds with the eternal memory of the first oceans.",
+                    "You weave moisture into a lattice of restoration, curing ailments with water's flexible strength.",
+                    "Droplets of pure healing essence rain upon your ally, each bead a tiny reservoir of aqueous renewal."
+                ],
+                "Fire": [
+                    "Cleansing flame dances across wounds without burning, cauterizing and mending with vital warmth.",
+                    "You channel fire's purifying aspect, burning away infection while knitting tissue with scintillating heat.",
+                    "Embers of restoration cascade over your ally, each spark igniting the body's natural healing response.",
+                    "Controlled flame seals injuries with surgical precision, transforming damaged flesh to renewed vitality.",
+                    "You invoke the phoenix's gift, revitalizing your target with the eternal promise of rebirth from ashes.",
+                    "Healing warmth penetrates deep into afflicted areas, melting away pain as it restores proper function.",
+                    "You direct currents of vital heat through your ally's form, igniting regenerative processes with fiery energy.",
+                    "The forge-fire of creation answers your call, remaking damaged tissue with its fundamental power.",
+                    "You weave a web of rejuvenating fire around your target, each intersection a point of catalytic healing.",
+                    "Gentle flames lick at wounds without harm, consuming infirmity while leaving renewed strength in their wake."
+                ],
+                "Earth": [
+                    "Crystalline minerals coalesce around injuries, forming natural scaffolds that guide perfect healing.",
+                    "You channel the steady resilience of stone, mending wounds with the patient certainty of mountains.",
+                    "Earthy energy flows into damaged tissue, restoring strength with the ancient wisdom of bedrock.",
+                    "Rejuvenating soil essence seeps into your ally, nurturing healing with the force that sustains all growth.",
+                    "You invoke the enduring permanence of earth, curing ailments by anchoring your target to primal stability.",
+                    "Dust particles saturated with healing magic swirl around wounds, rebuilding damaged areas grain by grain.",
+                    "You direct currents of mineral-rich energy, revitalizing your ally as their body absorbs earthen strength.",
+                    "The nurturing embrace of loam and clay surrounds your target, lending them nature's recuperative power.",
+                    "You weave strands of crystalline structure through injuries, splinting damaged tissue with mineral precision.",
+                    "Earth's boundless fertility responds to your call, regenerating flesh with the same force that births mountains."
+                ],
+                "Song": [
+                    "Harmonious notes resonate through injured tissue, realigning damaged structures with melodic precision.",
+                    "You channel healing cadences that echo through your ally, mending wounds with the power of perfect pitch.",
+                    "Restorative symphonies flow from your hands, orchestrating cellular repair with musical mathematics.",
+                    "The song of renewal weaves through your target, knitting flesh together with harmonic vibrations.",
+                    "You invoke ancient healing ballads, curing ailments as tissues resonate with forgotten melodies.",
+                    "Chords of rejuvenation envelope your ally, restoring vitality as each note stimulates natural recovery.",
+                    "You direct a chorus of microscopic vibrations, revitalizing damaged areas with therapeutic frequencies.",
+                    "The lullaby of creation itself surrounds your target, nurturing them with the song that shaped stars.",
+                    "You weave counterpoint melodies that cancel pain while amplifying the body's restorative rhythms.",
+                    "Resonant tones penetrate deeply, mending internal injuries with the precise mathematics of sound."
+                ],
+                "Love": [
+                    "Compassionate energy flows from your heart to theirs, mending wounds with the gentle power of empathy.",
+                    "You channel the nurturing aspect of affection, restoring vitality through connections of genuine care.",
+                    "Tendrils of rose-gold light weave through your ally, knitting damaged tissue with bonds of pure devotion.",
+                    "The healing warmth of unconditional acceptance surrounds your target, curing their injuries from within.",
+                    "You invoke the primal force that binds all things, revitalizing your ally with love's creative energy.",
+                    "Currents of heartfelt connection bridge between you and your target, carrying restorative power.",
+                    "You direct the gentle strength of compassion, mending wounds with the same force that holds worlds together.",
+                    "The essence of nurturing devotion envelops your ally, accelerating healing with emotional resonance.",
+                    "You weave a tapestry of empathetic understanding around injuries, restoring wholeness through recognition.",
+                    "Pure affection manifests as healing light, washing away damage with the tide of unconditional care."
+                ],
+                "Protection": [
+                    "Warding energies redirect toward healing, mending wounds with the same force that creates impenetrable shields.",
+                    "You channel defensive magic inward, restoring your ally's vitality by fortifying their natural recovery.",
+                    "Barriers of restorative power surround injuries, knitting tissue together within a sanctuary of renewal.",
+                    "Protective forces focus on internal threats, eliminating disease and damage with guardian precision.",
+                    "You invoke the shield's dual purpose, revitalizing your target while preventing further deterioration.",
+                    "Aegis energy flows through damaged areas, curing ailments by establishing boundaries against entropy.",
+                    "You direct the power of preservation, mending your ally with the same magic that maintains cosmic order.",
+                    "The essence of sanctuary suffuses your target, accelerating healing within its consecrated embrace.",
+                    "You weave defensive magic into a restorative matrix, restoring integrity to damaged physical structures.",
+                    "Bulwarks of healing energy form around wounds, creating safe havens where recovery naturally flourishes."
+                ],
+                "Death": [
+                    "You invert entropy's flow, mending wounds by redirecting the energy of dissolution toward renewal.",
+                    "Shadow tendrils weave through your ally, restoring life by grafting vitality from death's infinite domain.",
+                    "The boundary between life and death blurs at your command, allowing healing energy to flow from beyond.",
+                    "Whispers of mortality remind the body of its will to live, accelerating natural healing with urgent purpose.",
+                    "You channel the cycle's turning point, revitalizing your target with the paradoxical vigor found in endings.",
+                    "Spectral energies seal wounds with ghostly precision, curing ailments through death's intimate knowledge of life.",
+                    "You direct the power that waits at existence's edge, mending your ally with the strength of final transitions.",
+                    "The quiet certainty of eventual peace flows through your target, lending them the patience to properly heal.",
+                    "You weave necrotic energy into a framework for new growth, restoring function through necessary sacrifice.",
+                    "Death's transformative aspect manifests as healing light, renewing your ally through fundamental change."
+                ]
+            }
+        },
+        "Add": {
+            "element_prefix": {
+                "Moon": [
+                    "Lunar essence infuses your target, silvery moonlight weaving into their very being with celestial precision.",
+                    "You bestow the cold radiance of the moon upon your subject, their form now emanating subtle astral energy.",
+                    "Crescent power flows from your hands as you imbue your target with the patient gravity of lunar influence.",
+                    "You graft moonbeam energy onto your subject, their essence now resonating with the rhythm of distant tides.",
+                    "Silvery threads of lunar magic entwine with your target as you add the moon's inconstant strength to their form.",
+                    "You endow your subject with moonglow essence, their being now connected to the ancient cycles of celestial power.",
+                    "Astral light seeps into your target as you infuse them with the quiet authority of moonlit magic.",
+                    "You inscribe lunar sigils upon your subject, embedding the moon's reflective power within their essence.",
+                    "Pale illumination from distant satellites infuses your target as you add moonlight to their being.",
+                    "You bestow the essence of night's eye upon your subject, their form now harboring the moon's subtle influence."
+                ],
+                "Wind": [
+                    "Zephyr essence merges with your target as you infuse them with the freedom and adaptability of the wind.",
+                    "You bestow aerial energy upon your subject, their form now housing the swift currents of atmospheric power.",
+                    "Swirling breeze elements bind to your target as you imbue them with wind's invisible strength.",
+                    "You graft the essence of tempests onto your subject, their being now resonating with the wild song of gales.",
+                    "Whispering currents entwine around your target as you add the wind's elusive nature to their form.",
+                    "You endow your subject with the boundless spirit of air, their presence now carrying the whisper of distant storms.",
+                    "Cyclonic power seeps into your target as you infuse them with the persistent force of wind.",
+                    "You inscribe your subject with the patterns of changing breezes, embedding atmospheric vitality within them.",
+                    "The breath of sky giants infuses your target as you add the wind's unpredictable might to their essence.",
+                    "You bestow the freedom of unfettered air upon your subject, their being now harboring wind's graceful power."
+                ],
+                "Water": [
+                    "Liquid essence merges with your target as you infuse them with water's fluid adaptability and patient strength.",
+                    "You bestow the flowing wisdom of ancient waters upon your subject, their being now housing oceanic memory.",
+                    "Crystalline droplets bind to your target as you imbue them with the persistent force of tidal currents.",
+                    "You graft aquatic energy onto your subject, their form now resonating with the eternal rhythm of waves.",
+                    "River currents entwine through your target as you add water's transformative nature to their essence.",
+                    "You endow your subject with the boundless potential of primordial seas, their presence now carrying hidden depths.",
+                    "Flowing power seeps into your target as you infuse them with water's remarkable persistence.",
+                    "You inscribe your subject with the patterns of flowing streams, embedding hydromantic energy within them.",
+                    "The essence of crashing waves infuses your target as you add water's cleansing might to their being.",
+                    "You bestow the adaptable strength of living waters upon your subject, their form now harboring fluid resilience."
+                ],
+                "Fire": [
+                    "Flame essence merges with your target as you infuse them with fire's transformative energy and primal heat.",
+                    "You bestow the passionate intensity of living flame upon your subject, their being now housing embers of power.",
+                    "Sparks of elemental fire bind to your target as you imbue them with the catalytic force of controlled burning.",
+                    "You graft pyromantic energy onto your subject, their form now resonating with the crackling song of flames.",
+                    "Crimson heat entwines through your target as you add fire's evolutionary nature to their essence.",
+                    "You endow your subject with the purifying aspect of primordial flame, their presence now radiating vital warmth.",
+                    "Blazing power seeps into your target as you infuse them with fire's boundless creative potential.",
+                    "You inscribe your subject with the patterns of dancing flames, embedding conflagrative energy within them.",
+                    "The essence of forge-fires infuses your target as you add the hearth's nurturing might to their being.",
+                    "You bestow the transformative gift of phoenix-flame upon your subject, their form now harboring renewal's heat."
+                ],
+                "Earth": [
+                    "Mineral essence merges with your target as you infuse them with earth's enduring strength and grounding stability.",
+                    "You bestow the ancient wisdom of stone upon your subject, their being now housing crystalline resilience.",
+                    "Particles of primal earth bind to your target as you imbue them with the patient force of mountains.",
+                    "You graft geomantic energy onto your subject, their form now resonating with the steady song of bedrock.",
+                    "Fertile soil entwines through your target as you add earth's nurturing nature to their essence.",
+                    "You endow your subject with the unshakable foundation of primordial stone, their presence now radiating solid might.",
+                    "Tectonic power seeps into your target as you infuse them with earth's methodical persistence.",
+                    "You inscribe your subject with the patterns of ancient mountains, embedding lithic energy within them.",
+                    "The essence of deep caverns infuses your target as you add the earth's hidden strength to their being.",
+                    "You bestow the transformative touch of crystalline growth upon your subject, their form now harboring mineral might."
+                ],
+                "Song": [
+                    "Harmonic essence merges with your target as you infuse them with song's resonant power and mathematical precision.",
+                    "You bestow the structured beauty of perfect melody upon your subject, their being now housing symphonic energy.",
+                    "Notes of pure magical frequency bind to your target as you imbue them with the ordered force of music.",
+                    "You graft sonic energy onto your subject, their form now resonating with the fundamental cadence of creation.",
+                    "Melodic patterns entwine through your target as you add song's harmonizing nature to their essence.",
+                    "You endow your subject with the boundless expression of primordial music, their presence now radiating structured magic.",
+                    "Resonant power seeps into your target as you infuse them with song's ability to reshape reality through vibration.",
+                    "You inscribe your subject with the patterns of perfect harmonies, embedding auditory magic within them.",
+                    "The essence of creation's first symphony infuses your target as you add music's organizational might to their being.",
+                    "You bestow the transformative gift of perfect pitch upon your subject, their form now harboring melodic potential."
+                ],
+                "Love": [
+                    "Rose-gold essence merges with your target as you infuse them with love's boundless compassion and emotional strength.",
+                    "You bestow the harmonizing power of genuine affection upon your subject, their being now housing heart-energy.",
+                    "Tendrils of pure emotional connection bind to your target as you imbue them with the nurturing force of love.",
+                    "You graft empathetic energy onto your subject, their form now resonating with the warm pulse of devotion.",
+                    "Currents of pure compassion entwine through your target as you add love's understanding nature to their essence.",
+                    "You endow your subject with the unconditional acceptance of true affection, their presence now radiating emotional warmth.",
+                    "The power of heartfelt bonds seeps into your target as you infuse them with love's capacity to transcend barriers.",
+                    "You inscribe your subject with the patterns of emotional resonance, embedding heart-magic within them.",
+                    "The essence of soul-deep connection infuses your target as you add love's unifying might to their being.",
+                    "You bestow the transformative gift of perfect empathy upon your subject, their form now harboring compassionate strength."
+                ],
+                "Protection": [
+                    "Warding essence merges with your target as you infuse them with protection's resilient barriers and defensive strength.",
+                    "You bestow the unwavering security of arcane shields upon your subject, their being now housing aegis-energy.",
+                    "Patterns of magical safeguarding bind to your target as you imbue them with the steadfast force of protection.",
+                    "You graft barrier magic onto your subject, their form now resonating with the solid assurance of perfect defense.",
+                    "Layers of warding power entwine through your target as you add protection's preserving nature to their essence.",
+                    "You endow your subject with the sanctuary of inviolable space, their presence now radiating defensive certainty.",
+                    "Guardian energy seeps into your target as you infuse them with protection's ability to preserve against harm.",
+                    "You inscribe your subject with the patterns of impenetrable wards, embedding shielding magic within them.",
+                    "The essence of magical bulwarks infuses your target as you add protection's unyielding might to their being.",
+                    "You bestow the transformative gift of perfect security upon your subject, their form now harboring defensive resilience."
+                ],
+                "Death": [
+                    "Shadow essence merges with your target as you infuse them with death's transformative finality and spectral power.",
+                    "You bestow the boundary-walking strength of mortality upon your subject, their being now housing entropic energy.",
+                    "Tendrils of necrotic force bind to your target as you imbue them with the inevitable cycle of endings.",
+                    "You graft death-magic onto your subject, their form now resonating with the solemn whispers of final transition.",
+                    "Currents of spectral energy entwine through your target as you add death's transformative nature to their essence.",
+                    "You endow your subject with the unyielding honesty of mortality, their presence now radiating with finality's purpose.",
+                    "The power of existence's threshold seeps into your target as you infuse them with death's perspective on life.",
+                    "You inscribe your subject with the patterns of perfect endings, embedding mortality's wisdom within them.",
+                    "The essence of life's culmination infuses your target as you add death's clarifying might to their being.",
+                    "You bestow the transformative gift of mortality's insight upon your subject, their form now harboring death's quiet strength."
+                ]
+            }
+        },
+        "Shield": {
+            "element_prefix": {
+                "Moon": [
+                    "Moonlight solidifies into a silvery dome, warding away hostile energies with the serene protection of lunar essence.",
+                    "Crescent barriers of astral energy orbit your form, deflecting attacks with the ancient shield power of celestial bodies.",
+                    "You summon the moon's guardian aspect, creating a luminous aegis that reflects harm back into the darkness.",
+                    "Pale lunar light hardens into crystalline plates that interlock to defend against all manner of threats.",
+                    "A shimmering wall of moonglow manifests, its rippling surface absorbing and nullifying hostile energies.",
+                    "Spectral moonbeams coalesce into a protective sphere, its waxing strength repelling attacks with tidal certainty.",
+                    "You invoke the moon's shadowed face, weaving a shield of twilight energies that obscures you from enemy sight.",
+                    "Gossamer strands of silver light intertwine around you, forming an elegant lattice that deflects incoming harm.",
+                    "A barrier of lunar frost encases you, its cold radiance safeguarding against the heat of battle and malice.",
+                    "You draw down the moon's protective veil, securing yourself within a sanctuary of celestial light and shadow."
+                ],
+                "Wind": [
+                    "Swirling currents of air compress into an invisible shield, deflecting attacks with the persistent defense of atmospheric force.",
+                    "You conjure a vortex barrier that surrounds you, its spinning winds warding off harm with cyclonic protection.",
+                    "Air hardens into an almost solid wall at your command, creating a bulwark of elemental breath that safeguards against danger.",
+                    "Buffeting gusts form concentric rings around you, each layer of wind defending against threats with increasing intensity.",
+                    "You weave the zephyr into a protective cocoon, its subtle movements detecting and diverting incoming attacks.",
+                    "Turbulent air currents surge at your command, creating a tempestuous shield that repels projectiles and energies alike.",
+                    "A whispering aegis of wind encompasses you, its howling barrier warning away those who would cause harm.",
+                    "You summon the sky's guardian aspect, forming a shield of pure atmospheric pressure that stands firm against assault.",
+                    "Invisible but tangible, your wind barrier distorts around impacts, absorbing forces through elastic aerial defense.",
+                    "The very breath of the world defends you, manifesting as a shield of air that adapts and flows around threats."
+                ],
+                "Water": [
+                    "Liquid crystallizes into a flowing shield before you, its fluid surface absorbing impacts with the resilient defense of deep waters.",
+                    "You conjure a barrier of suspended droplets that instantly hardens where struck, protecting with water's adaptive warding.",
+                    "A surging wave circles your form, its continuous motion deflecting attacks with the tireless protection of tidal forces.",
+                    "Glacial water forms a transparent aegis around you, freezing solid against threats then returning to fluid mobility.",
+                    "You summon forth a shield of pressurized water, its compressed power creating an impenetrable defense against harm.",
+                    "Rippling currents manifest as a protective sphere, absorbing and dissipating hostile energies throughout its aqueous mass.",
+                    "A wall of water rises at your command, its purifying essence washing away harmful magics while maintaining its protective form.",
+                    "You weave moisture into a barrier of remarkable tensile strength, its surface tension creating an elastic shield against damage.",
+                    "Prismatic water droplets arrange themselves around you, each one a perfect lens that redirects attacks away from your form.",
+                    "The essence of ocean depths surrounds you, creating a sanctuary of abyssal pressure that crushes approaching threats."
+                ],
+                "Fire": [
+                    "Flames coalesce into a spiraling barrier, warding against threats with the fierce protection of searing heat.",
+                    "You summon a shield of controlled conflagration, its burning perimeter incinerating projectiles before they reach you.",
+                    "A wall of intense heat surrounds you, creating a defensive boundary that reduces physical attacks to ash.",
+                    "Dancing embers form a protective sphere, their unified energy creating a barrier that repels hostile forces with fiery defiance.",
+                    "You forge a rampart of crimson flame, its protective intensity guarding you with the unyielding defense of a forge's heart.",
+                    "Ribbons of fire weave themselves into an incandescent barrier, safeguarding you with their radiant, consuming protection.",
+                    "A pulsing shield of heat energy envelops you, repelling incoming threats with waves of thermal defensive force.",
+                    "You manifest the flame's guardian aspect, creating a protective shell of fire that warns away those who would harm you.",
+                    "Concentric rings of blue-white fire orbit your form, their overlapping protection creating an impenetrable aegis of heat.",
+                    "The purifying aspect of flame surrounds you, its protective barrier burning away malice while preserving your safety."
+                ],
+                "Earth": [
+                    "Stone erupts from the ground to form a solid bulwark, shielding you with the unyielding protection of mountain strength.",
+                    "You summon a barrier of compressed soil and rock, its earthen mass absorbing impacts with geological resilience.",
+                    "Crystalline minerals arrange themselves into a faceted dome, deflecting attacks with the structured defense of gemstone lattices.",
+                    "A wall of living stone rises to guard you, its ancient substance providing protection born from the deep knowledge of bedrock.",
+                    "You weave sand and dust into a surprisingly resilient shield, its particles absorbing and dispersing harmful energies.",
+                    "Tectonic forces manifest as overlapping plates of stone that interlock around you, creating an aegis of continental strength.",
+                    "A rampart of elemental earth encircles your position, grounding harmful magics while maintaining its protective boundary.",
+                    "You call forth the guardian aspect of stone, its solid presence creating a haven of safety amidst danger.",
+                    "Metallic ores within the earth respond to your call, forming a shield of extraordinary density that stands firm against assault.",
+                    "The primordial strength of earth surrounds you, manifesting as a barrier that channels attacks harmlessly into the ground."
+                ],
+                "Song": [
+                    "Harmonious notes solidify into a resonant barrier, deflecting attacks with the protective counterpoint of sonic defense.",
+                    "You conduct the air into a shield of pure vibration, its frequencies warding against harm with musical protection.",
+                    "A dome of crystallized sound surrounds you, its harmonics creating interference patterns that neutralize hostile energies.",
+                    "Melodic waves form concentric barriers around your form, each resonating tone adding another layer of symphonic protection.",
+                    "You weave a cadence of shielding power, its rhythmic structure creating a mathematically perfect defensive pattern.",
+                    "Sustained notes of power manifest as visible ripples that intercept and disperse incoming threats before they reach you.",
+                    "A chorus of protective frequencies encompasses you, their overlapping tones generating a shield of pure acoustic resistance.",
+                    "You summon the guardian aspect of song, creating a barrier of melodic energy that turns attacks aside with harmonic precision.",
+                    "Chords of defensive magic form a spherical aegis, its resonant structure absorbing harmful forces into musical counterpoint.",
+                    "The ancient mathematics of sound manifest around you, creating a shield whose perfect ratios disperse hostile energies."
+                ],
+                "Love": [
+                    "Tendrils of compassionate energy weave into a rose-gold barrier, shielding with the profound protection of genuine affection.",
+                    "You summon a dome of empathetic force, its warm light creating a sanctuary that rejects harmful intent through emotional connection.",
+                    "A shield of heart-energy forms around you, its nurturing essence blocking attacks while strengthening bonds with allies.",
+                    "Ribbons of pure devotion manifest as a protective sphere, warding against threats with love's fierce defensive nature.",
+                    "You create a barrier of unconditional acceptance that surrounds your allies, its unified protection stronger than any individual shield.",
+                    "Crimson light coalesces into a heart-shaped aegis, its passionate defense turning aside attacks with the strength of true emotion.",
+                    "A shield of emotional resonance envelops you, its protective attunement recognizing and rejecting forces of malice and harm.",
+                    "You manifest love's guardian aspect, creating a barrier that defends not just the body but the spirit from attack.",
+                    "Warm currents of affection circle protectively around you, forming a shield that grows stronger with each defended blow.",
+                    "The universal bond of compassion surrounds you, its protective embrace creating a haven where harmful energies cannot penetrate."
+                ],
+                "Protection": [
+                    "Layers of meta-defensive energy enfold you, creating a shield of shields whose recursive wardcraft exponentially increases your safety.",
+                    "You summon the pure essence of defense itself, forming a barrier of concentrated protective magic that stands inviolate against harm.",
+                    "A perfect aegis materializes at your command, its structure embodying the platonic ideal of protection in crystallized magical form.",
+                    "Overlapping fields of wardlight create a multilayered bulwark, each defensive stratum reinforcing the others against any breach.",
+                    "You weave protections within protections, creating a labyrinthine shield that redirects attacks into harmless feedback loops.",
+                    "The fundamental force of preservation surrounds you, manifesting as a barrier that negates harmful energies on contact.",
+                    "A sanctuary of absolute defense encompasses your form, its perfect protective geometry rejecting all forms of harm.",
+                    "You channel the guardian aspect of protection itself, creating a shield whose defensive power is drawn from the very concept of safety.",
+                    "Shimmering panels of warding light arrange themselves around you, forming an impenetrable bastion against all threats.",
+                    "The ultimate expression of defensive magic surrounds you, its barrier incorporating all elements into perfect protective harmony."
+                ],
+                "Death": [
+                    "Shadows congeal into a barrier of entropic force, warding against life energy with the paradoxical protection of mortality's embrace.",
+                    "You summon a shield of spectral essence, its necrotic boundary defining a sanctuary where harmful forces cease to exist.",
+                    "A dome of grave-mist surrounds you, its cold protection absorbing attacks with the terminal finality of death itself.",
+                    "Tendrils of shadowstuff weave into a protective shroud, defining the threshold between harm and safety with death's certainty.",
+                    "You manifest the boundary between worlds as a shield, its liminal nature allowing threatening energies to pass into oblivion.",
+                    "A necrotic barrier forms at your command, its deathly presence granting you protection through the ultimate transformation.",
+                    "Whispers of finality coalesce into a physical aegis, warding you with death's solemn promise of eventual peace.",
+                    "You summon death's guardian aspect, creating a shield of mortality that paradoxically preserves your life force.",
+                    "Gray mists of the beyond surround you, forming a protective veil where attacks fade like memories of the deceased.",
+                    "The quiet certainty of life's end manifests as your shield, its protective power drawn from the greatest force of conclusion."
+                ]
+            }
+        },
+        "Echo": {
+            "element_prefix": {
+                "Moon": [
+                    "Lunar essence refracts into multiple silvery copies, each one a perfect duplicate echoing with the quiet radiance of moonbeams.",
+                    "You call forth phantom reflections woven from moonlight, their crystalline forms resonating with celestial harmony.",
+                    "Spectral twins formed of lunar energy materialize around you, each one mirroring your gestures with fluid, tide-like precision.",
+                    "Crescent mirrors of moonlight duplicate your presence, creating ephemeral reflections that pulse with astral power.",
+                    "You split the moonbeam into identical fragments, each one becoming a resonating echo of your magical intent.",
+                    "Silvery replications emerge from your shadow, each one born from the moon's capacity to reflect and multiply light.",
+                    "A cascade of lunar duplicates unfolds from your form, their translucent bodies shimmering with the cold fire of distant stars.",
+                    "You harness the moon's reflective nature, creating identical copies that orbit you like satellites around a planet.",
+                    "The boundary between moonlight and shadow blurs as you manifest multiple identical projections of lunar essence.",
+                    "You capture the moon's dual aspects, creating perfect reflections that embody both the bright and dark faces of lunar magic."
+                ],
+                "Wind": [
+                    "Air currents split and duplicate around your form, creating whirling echoes that resonate with the voice of the breeze.",
+                    "You replicate the invisible patterns of wind, manifesting identical aerial constructs that mirror your original intent.",
+                    "Spiraling duplicates of condensed atmosphere form at your command, each one a perfect reflection crafted from zephyr essence.",
+                    "The wind divides upon itself, creating multiple identical currents that amplify your magic through harmonic resonance.",
+                    "You capture the echo of a tempest, reproducing its pattern in multiple identical streams of focused air.",
+                    "Whispering duplicates of wind energy materialize around you, each one repeating and reinforcing your magical purpose.",
+                    "The breeze shivers and multiplies, creating perfect aerial reflections that intensify with each repetition.",
+                    "You harness the wind's capacity to carry sound, creating physical echoes that manifest as identical air constructs.",
+                    "Transparent duplicates formed from atmospheric essence surround your target, each one a resonating copy of the original.",
+                    "You split the very breath of the sky, creating synchronized aerial twins that mirror each movement in perfect harmony."
+                ],
+                "Water": [
+                    "Liquid ripples split and reorganize, forming perfect aqueous duplicates that resonate with the original's flowing essence.",
+                    "You create crystalline reflections in water that step forth as independent, identical entities of fluid perfection.",
+                    "Droplets multiply and expand into complete watery echoes, each one mirroring the original with tidal precision.",
+                    "The boundary between one water droplet and many blurs as you create perfect fluid duplications of your magic.",
+                    "You capture water's reflective surface properties, manifesting physical echoes that ripple with identical purpose.",
+                    "Mirrored pools form in midair, each one birthing an exact liquid duplicate that resonates with the original.",
+                    "You divide the essence of ocean memory, creating multiple identical water constructs that flow with synchronized grace.",
+                    "Hydromantic echoes pulse outward from your gesture, forming precise aquatic replications that amplify your intent.",
+                    "The water responds to your magic by splitting into perfect twins, each one containing the full potential of the original.",
+                    "You manifest the duplicating property of rain, creating identical droplets that expand into complete watery reflections."
+                ],
+                "Fire": [
+                    "Flames divide and replicate with perfect fidelity, creating identical burning echoes that resonate with primal heat.",
+                    "You split the essence of combustion, manifesting synchronized fire duplicates that mirror the original's intensity.",
+                    "Embers multiply and expand, forming complete fiery reflections that dance with the same pattern as their source.",
+                    "The spark refracts into multiple identical flames, each one repeating and amplifying the initial conflagration.",
+                    "You harness fire's tendency to spread, creating controlled duplications that mirror your original magical intent.",
+                    "Crimson replications born of pure heat energy materialize, each one an exact burning echo of the first.",
+                    "The boundary between one flame and many blurs as you create perfect resonant duplicates of fire essence.",
+                    "You manifest the phoenix's ability to reproduce itself, creating identical fiery constructs that echo with renewal.",
+                    "Heat signatures duplicate around your target, each one forming into an exact fiery reflection of your spell.",
+                    "You capture the essence of wildfire propagation, creating perfect echoes that multiply your flame's effectiveness."
+                ],
+                "Earth": [
+                    "Mineral structures duplicate with crystalline precision, creating identical earthen echoes that resonate with geological harmony.",
+                    "You split stone into perfect replicas, each one maintaining the exact molecular pattern of the original formation.",
+                    "Soil and crystal reconfigure into multiple synchronized duplicates, resonating with the steady frequency of bedrock.",
+                    "The boundary between one stone and many blurs as you create perfect duplications of earth essence.",
+                    "You harness the replicating patterns of crystal growth, manifesting identical mineral constructs that echo your intent.",
+                    "Earthen twins emerge from the ground, each one a resonant reflection possessing the same grounding strength.",
+                    "You capture the fractal patterns in natural stone, reproducing them as perfect echoing duplicates of your magic.",
+                    "Tectonic energy divides into synchronized replications, each one mirroring the original's geological stability.",
+                    "Crystalline echoes form at your command, identical earth-bound duplicates that amplify your spell's effectiveness.",
+                    "You manifest the earth's capacity for symmetry, creating perfect mineral reflections that multiply your magical purpose."
+                ],
+                "Song": [
+                    "Harmonies split into multiple synchronized melodies, creating identical sonic echoes that resonate with perfect pitch.",
+                    "You replicate the mathematical patterns of sound, manifesting duplicate musical constructs that amplify the original.",
+                    "Resonant frequencies divide and multiply, forming complete acoustic reflections that mirror your initial harmony.",
+                    "The boundary between one note and its repetition blurs as you create perfect duplications of melodic essence.",
+                    "You harness sound's natural tendency to echo, giving physical form to identical resonant replications of your spell.",
+                    "Harmonic twins vibrate into existence, each one a synchronized duplicate that reinforces your magical intent.",
+                    "You capture the structure of a perfect chord, reproducing it in multiple identical sonic manifestations.",
+                    "Musical patterns duplicate around your target, each one forming into an exact acoustic reflection of your magic.",
+                    "You manifest the repeating nature of rhythm, creating synchronized echoes that multiply your spell's effectiveness.",
+                    "Crystallized sound fragments into perfect duplicates, each one maintaining the precise frequency of the original note."
+                ],
+                "Love": [
+                    "Emotional resonance splits into multiple synchronized connections, creating identical empathic echoes of your affection.",
+                    "You replicate the patterns of heartfelt bonds, manifesting duplicate constructs that amplify the original feeling.",
+                    "Rose-gold energy divides and multiplies, forming complete emotional reflections that mirror your initial compassion.",
+                    "The boundary between one feeling and its shared experience blurs as you create perfect duplications of affection.",
+                    "You harness love's capacity to grow when given, creating identical resonant replications of emotional energy.",
+                    "Empathic twins pulse into existence, each one a synchronized duplicate that reinforces your compassionate intent.",
+                    "You capture the essence of deep connection, reproducing it in multiple identical manifestations of pure devotion.",
+                    "Heart-energy refracts around your target, each fragment forming into an exact reflection of your original bond.",
+                    "You manifest the self-perpetuating nature of compassion, creating synchronized echoes that multiply your spell's effectiveness.",
+                    "Tendrils of affection divide into perfect duplicates, each one maintaining the precise warmth of the original feeling."
+                ],
+                "Protection": [
+                    "Warding energies split into multiple synchronized barriers, creating identical defensive echoes that resonate with protective harmony.",
+                    "You replicate the mathematical patterns of perfect shields, manifesting duplicate aegis constructs that amplify the original defense.",
+                    "Protective forces divide and multiply, forming complete barrier reflections that mirror your initial safeguard.",
+                    "The boundary between one shield and many blurs as you create perfect duplications of warding essence.",
+                    "You harness protection's capacity to extend its coverage, creating identical resonant replications of your defensive spell.",
+                    "Guardian twins materialize around your target, each one a synchronized duplicate that reinforces your protective intent.",
+                    "You capture the structure of an impenetrable barrier, reproducing it in multiple identical defensive manifestations.",
+                    "Shielding patterns duplicate outward from your gesture, each one forming into an exact reflection of your original ward.",
+                    "You manifest the recursive nature of defensive magic, creating synchronized echoes that multiply your spell's effectiveness.",
+                    "Layers of protection divide into perfect duplicates, each one maintaining the precise resilience of the original barrier."
+                ],
+                "Death": [
+                    "Necrotic energy splits into multiple synchronized manifestations, creating identical spectral echoes that resonate with mortality's essence.",
+                    "You replicate the patterns of entropy, manifesting duplicate shadow constructs that amplify the original's finality.",
+                    "Death's gray mists divide and multiply, forming complete spectral reflections that mirror your initial conjuration.",
+                    "The boundary between one ending and many blurs as you create perfect duplications of death's essence.",
+                    "You harness the echoing silence of the grave, creating identical resonant replications of your necrotic spell.",
+                    "Spectral twins materialize from the void, each one a synchronized duplicate that reinforces your entropic intent.",
+                    "You capture the structure of mortality's final moment, reproducing it in multiple identical manifestations.",
+                    "Entropic patterns duplicate around your target, each one forming into an exact reflection of your original death magic.",
+                    "You manifest the repeating cycle of endings, creating synchronized echoes that multiply your spell's effectiveness.",
+                    "Shadowy essence fragments into perfect duplicates, each one maintaining the precise finality of the original conjuration."
+                ]
+            }
+        }
+    }
+}
+}
+}

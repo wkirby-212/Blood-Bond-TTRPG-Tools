@@ -1,0 +1,40 @@
+{
+"Effect": {
+    "Creation": ["create", "make", "form", "generate", "manifest", "summon", "conjure", "construct", "build", "assemble", "fabricate", "produce", "bring forth", "forge", "invoke", "call into being", "resurrect", "revive from death", "raise from dead", "awaken the dead", "reanimate", "bring back from beyond", "call upon spirits", "channel the deceased", "draw forth souls", "materialize entity", "necromancy", "commune with spirits", "ritual of return", "seance"],
+    "Damage": ["damage", "hurt", "harm", "injure", "wound", "destroy", "attack", "blast", "pain", "devastate", "crush", "shatter", "rupture", "rend", "cleave", "tear asunder", "break", "smite"],
+    "Change": ["change", "transform", "alter", "modify", "transmute", "convert", "shift", "reshape", "mutate", "reconstruct", "evolve", "adapt", "reforge", "realign", "warp", "bend reality"],
+    "Curse": ["curse", "hex", "bane", "afflict", "bring doom", "doom upon others", "jinx", "plague", "torment", "misfortune", "blight", "damnation", "haunt", "forsake", "mark with curse", "seal fate", "bind in suffering"],
+    "Boost": ["boost", "enhance", "improve", "strengthen", "amplify", "augment", "empower", "increase", "fortify", "heighten", "invigorate", "reinforce", "bolster", "enrich", "infuse", "imbue", "uplift"],
+    "Heal": ["heal", "cure", "mend", "restore", "rejuvenate", "repair", "recover", "regenerate", "revive the wounded", "revitalize", "patch", "renew", "refresh", "purify", "soothe", "cleanse", "harmonize"],
+    "Add": ["add", "append", "attach", "combine", "join", "supplement", "extend", "include", "merge", "integrate", "incorporate", "weave", "intertwine", "interlace"],
+    "Shield": ["shield against", "create shield", "protect actively", "guard against", "defend from", "ward off", "block attack", "create barrier", "deflect", "shelter from", "actively preserve", "repel", "encompass with defense", "veil from harm", "encase in shield", "sanctify"],
+    "Death Mark": ["death mark", "mark for death", "target", "mark of doom", "fate", "sentence", "condemn", "judge", "curse of mortality", "final brand", "soul tether", "harbinger", "last rites", "bound to the end"],
+    "Echo": ["echo", "repeat", "mimic", "copy", "reflect", "duplicate", "mirror", "imitate", "resonate", "reverberate", "amplify", "bounce", "ghost sound", "shadow whisper", "harmonic trace"]
+},
+"Element": {
+    "Moon": ["moon", "lunar", "night", "silver", "crescent", "celestial", "tide", "moon shadow", "lunar shadow", "moonlight", "moonbeam", "moonlit", "moonglow", "lunar radiance", "nocturnal", "astral", "star-kissed", "orb of night"],
+    "Wind": ["wind", "air", "breeze", "gust", "tempest", "storm", "hurricane", "tornado", "cyclone", "zephyr", "gale", "whirlwind", "current", "atmosphere", "squall", "airflow", "skyborne", "howling winds", "storms breath"],
+    "Water": ["water", "aqua", "liquid", "fluid", "ocean", "sea", "river", "lake", "rain", "mist", "ice", "steam", "hydro", "droplet", "moisture", "wave", "cascade", "spray", "tidal surge", "brine"],
+    "Fire": ["fire", "flame", "blaze", "burn", "inferno", "heat", "combustion", "spark", "ember", "lava", "magma", "ignite", "flare", "torch", "scorch", "pyre", "cinder", "sizzle", "smolder", "hellfire", "fiery"],
+    "Earth": ["earth", "soil", "stone", "rock", "mineral", "ground", "dirt", "mountain", "land", "crystal", "gem", "boulder", "granite", "marble", "quartz", "gravel", "metal", "ore", "terra", "bedrock", "roots of the world"],
+    "Song": ["song", "music", "melody", "harmony", "tune", "lyric", "rhythm", "vocal", "sound", "chant", "chorus", "symphony", "note", "hymn", "serenade", "sonata", "resonance", "cadence", "lullaby", "refrain", "ethereal hymn"],
+    "Love": ["love", "affection", "passion", "devotion", "emotion", "heart", "desire", "romance", "adore", "care", "fondness", "admiration", "embrace", "cherish", "compassion", "infatuation", "bond", "longing", "soul connection"],
+    "Protection": ["protection", "protective force", "safety", "security", "defense", "safeguard", "protective shield", "preservation", "guardian", "protective ward", "defensive barrier", "protective armor", "sanctuary", "haven", "rampart", "bulwark", "immunity", "aegis", "guardian's will", "divine bastion", "aura of protection"],
+    "Death": ["death", "demise", "end", "mortality", "grave", "tomb", "decay", "corpse", "lifeless", "oblivion", "shadow of death", "void", "abyss", "underworld", "reaper", "specter", "darkness", "extinction", "afterlife", "spirit realm", "soul harvest", "impending doom", "last breath", "passing", "lost soul"]
+},
+"Duration": {
+    "instant": ["instant", "immediate", "momentary", "flash", "split second", "sudden", "instantaneous", "fleeting", "gone in a blink", "lightning quick", "rapid", "ephemeral", "transient", "quick as thought", "without delay", "vanishing moment"],
+    "1 min": ["minute", "one minute", "short while", "brief period", "moment", "sixty seconds", "brief duration", "short time", "transitory", "passing", "interim", "quick interval", "transient period", "short span"],
+    "30 min": ["half hour", "thirty minutes", "extended period", "moderate duration", "substantial time", "half an hour", "medium duration", "significant span", "episode", "spell cycle", "interim", "modest interval", "temporary state", "intermediate period"],
+    "2 hr": ["two hours", "couple hours", "extended time", "lengthy period", "long duration", "prolonged", "enduring", "persistent", "protracted", "sustained", "comprehensive", "lasting", "continuous", "long-running", "elongated timeframe", "drawn-out period"],
+    "8 hr": ["eight hours", "full day", "day-long", "extensive", "all-day", "prolonged period", "sustained effect", "ongoing", "extended presence", "lasting impact", "durable effect", "persistent influence", "day's duration", "throughout the day", "sunrise to sunset", "daylight hours"]
+},
+"Range": {
+    "Self": ["self", "personal", "self only", "caster", "on self", "on me", "myself", "self-centered", "self-affecting", "inward", "internal", "upon oneself", "within", "auto", "personal space", "within oneself", "in your ears", "whispers to you"],
+    "5ft": ["touch", "contact", "reach", "adjacent", "touching distance", "immediate reach", "direct contact", "close quarters", "point blank", "arm's length", "nearby", "at hand", "within arm's reach", "proximity", "hand-to-hand", "near enough to touch"],
+    "30ft": ["close", "nearby", "short distance", "stone's throw", "close range", "not far", "short range", "spitting distance", "brief distance", "within earshot", "easy reach", "within sight", "quick dash", "minor distance", "proximity", "a step away"],
+    "60ft": ["moderate distance", "medium range", "fair distance", "moderately distant", "within range", "reasonable distance", "accessible range", "hunter's shot", "medium span", "visible distance", "middle range", "clear sight", "appreciable distance", "modest range", "accessible space"],
+    "100ft": ["long distance", "extended range", "significant distance", "far reach", "considerable span", "distant target", "far-off", "stretched range", "lengthy distance", "substantial reach", "over there", "across way", "distant view", "remarkable span", "far range"],
+    "200ft": ["extreme distance", "very distant", "far away", "remote", "maximum range", "farthest reach", "outer limits", "extreme range", "falcon's glide", "arrow flight", "horizon's edge", "distant horizon", "far-reaching", "extended vision", "ultimate distance", "sight limit", "extreme boundary", "terminal range", "long shot", "distant target"]
+}
+}

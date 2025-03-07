@@ -1,0 +1,193 @@
+{
+"description": "This file documents common time duration phrases and patterns for spell casting",
+"usage": "Use this file to identify and match duration phrases in natural language",
+"duration_patterns": {
+    "instant": {
+    "description": "Spells that happen immediately with no duration",
+    "examples": [
+        "instantly",
+        "immediately",
+        "in an instant",
+        "at once",
+        "right away",
+        "without delay",
+        "instantaneously"
+    ],
+    "regex_patterns": [
+        "\\b(?:instant(?:ly|aneous(?:ly)?)?|immediate(?:ly)?|at once|right away|without delay)\\b"
+    ]
+    },
+    "1_minute": {
+    "description": "Spells that last approximately one minute",
+    "examples": [
+        "for one minute",
+        "for 1 minute",
+        "lasts a minute",
+        "for a minute",
+        "1 min",
+        "one minute",
+        "60 seconds",
+        "about a minute"
+    ],
+    "regex_patterns": [
+        "\\b(?:(?:for|last(?:s|ing)?|about)\\s+(?:a|one|1)\\s+min(?:ute)?s?)\\b",
+        "\\b(?:one|1)\\s+min(?:ute)?\\b",
+        "\\b(?:60|sixty)\\s+seconds\\b"
+    ]
+    },
+    "5_minute": {
+    "description": "Spells that last approximately five minutes",
+    "examples": [
+        "for five minutes",
+        "for 5 minutes",
+        "lasts five minutes",
+        "5 min",
+        "five minutes",
+        "a few minutes",
+        "several minutes"
+    ],
+    "regex_patterns": [
+        "\\b(?:(?:for|last(?:s|ing)?|about)\\s+(?:five|5)\\s+min(?:ute)?s?)\\b",
+        "\\b(?:five|5)\\s+min(?:ute)?s?\\b",
+        "\\ba few minutes\\b",
+        "\\bseveral minutes\\b"
+    ]
+    },
+    "10_minute": {
+    "description": "Spells that last approximately ten minutes",
+    "examples": [
+        "for ten minutes",
+        "for 10 minutes",
+        "lasts ten minutes",
+        "10 min",
+        "ten minutes",
+        "about ten minutes"
+    ],
+    "regex_patterns": [
+        "\\b(?:(?:for|last(?:s|ing)?|about)\\s+(?:ten|10)\\s+min(?:ute)?s?)\\b",
+        "\\b(?:ten|10)\\s+min(?:ute)?s?\\b"
+    ]
+    },
+    "30_minute": {
+    "description": "Spells that last approximately thirty minutes",
+    "examples": [
+        "for thirty minutes",
+        "for half an hour",
+        "for 30 minutes",
+        "lasts half an hour",
+        "30 min",
+        "thirty minutes",
+        "half hour",
+        "half an hour"
+    ],
+    "regex_patterns": [
+        "\\b(?:(?:for|last(?:s|ing)?|about)\\s+(?:thirty|30)\\s+min(?:ute)?s?)\\b",
+        "\\b(?:thirty|30)\\s+min(?:ute)?s?\\b",
+        "\\b(?:(?:for|last(?:s|ing)?|about)\\s+)?half\\s+(?:an\\s+)?hour\\b"
+    ]
+    },
+    "1_hour": {
+    "description": "Spells that last approximately one hour",
+    "examples": [
+        "for one hour",
+        "for 1 hour",
+        "lasts an hour",
+        "1 hour",
+        "one hour",
+        "an hour",
+        "60 minutes"
+    ],
+    "regex_patterns": [
+        "\\b(?:(?:for|last(?:s|ing)?|about)\\s+(?:an|a|one|1)\\s+hour)\\b",
+        "\\b(?:one|1)\\s+hour\\b",
+        "\\ban hour\\b",
+        "\\b(?:60|sixty)\\s+min(?:ute)?s?\\b"
+    ]
+    },
+    "5_hour": {
+    "description": "Spells that last multiple hours",
+    "examples": [
+        "for five hours",
+        "for 5 hours",
+        "lasts five hours",
+        "5 hours",
+        "five hours",
+        "several hours",
+        "a few hours"
+    ],
+    "regex_patterns": [
+        "\\b(?:(?:for|last(?:s|ing)?|about)\\s+(?:five|5)\\s+hours?)\\b",
+        "\\b(?:five|5)\\s+hours?\\b",
+        "\\bseveral hours\\b",
+        "\\ba few hours\\b"
+    ]
+    },
+    "24_hour": {
+    "description": "Spells that last approximately one day",
+    "examples": [
+        "for a day",
+        "for one day",
+        "for 24 hours",
+        "lasts a day",
+        "24 hours",
+        "one day",
+        "a day",
+        "a full day"
+    ],
+    "regex_patterns": [
+        "\\b(?:(?:for|last(?:s|ing)?|about)\\s+(?:a|one)\\s+day)\\b",
+        "\\b(?:a|one)\\s+(?:full\\s+)?day\\b",
+        "\\b(?:24|twenty[ -]four)\\s+hours?\\b"
+    ]
+    },
+    "1_week": {
+    "description": "Spells that last approximately one week",
+    "examples": [
+        "for a week",
+        "for one week",
+        "for 7 days",
+        "lasts a week",
+        "one week",
+        "a week",
+        "seven days"
+    ],
+    "regex_patterns": [
+        "\\b(?:(?:for|last(?:s|ing)?|about)\\s+(?:a|one)\\s+week)\\b",
+        "\\b(?:a|one)\\s+week\\b",
+        "\\b(?:7|seven)\\s+days\\b"
+    ]
+    },
+    "permanent": {
+    "description": "Spells that last forever or until dispelled",
+    "examples": [
+        "permanently",
+        "forever",
+        "eternal",
+        "unending",
+        "everlasting",
+        "until dispelled",
+        "permanent"
+    ],
+    "regex_patterns": [
+        "\\b(?:permanent(?:ly)?|forever|eternal(?:ly)?|unending|everlasting|(?:until|unless)\\s+dispell(?:ed)?)\\b"
+    ]
+    }
+},
+"notes": {
+    "implementation_tips": [
+    "Process longer phrases before shorter ones to avoid partial matches",
+    "Consider word boundaries (\\b) to prevent partial word matches",
+    "Match case-insensitively for greater flexibility",
+    "Allow reasonable variations in wording when possible"
+    ],
+    "common_prefixes": [
+    "for", "lasts", "lasting", "duration of", "persists for", "continues for"
+    ],
+    "ambiguous_phrases": [
+    "for a while (could be 5-30 min depending on context)",
+    "for some time (could be 30 min - 5 hours)",
+    "briefly (could be instant or 1 min)"
+    ]
+}
+}
+
